@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testExecutions version="1">
+  <file path="/Users/tevfiktayfun/Desktop/Jentis Automation Project/api/contacts/get/contacts.test.ts">
+    <testCase name="Getting contacts - GET SUCCESS - Get Contacts via true token" duration="167"/>
+  </file>
+</testExecutions>

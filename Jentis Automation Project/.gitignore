@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+*.js
+*.js.map
+
+# Puppeteer screenshots
+screenshots/
+
+# Axios cache
+.cache/
+
+
+# macOS
+.DS_Store
